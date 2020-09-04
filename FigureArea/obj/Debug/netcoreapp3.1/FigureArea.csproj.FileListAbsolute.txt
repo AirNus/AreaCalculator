@@ -1,0 +1,13 @@
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.exe
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.deps.json
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.runtimeconfig.json
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.runtimeconfig.dev.json
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.dll
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.pdb
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.csprojAssemblyReference.cache
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.AssemblyInfoInputs.cache
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.AssemblyInfo.cs
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.dll
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.pdb
+C:\Users\Ainur\source\repos\FigureArea\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.genruntimeconfig.cache
